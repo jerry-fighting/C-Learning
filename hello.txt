@@ -13,4 +13,4 @@ hello baby!
 hello baby!
 hello baby!
 hello baby!  master test!
-hello baby!
+hello baby!  hot-fix test!
